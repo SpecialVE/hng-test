@@ -139,3 +139,21 @@ img {
 }
 
 /*============== End of Body Styles ============ */
+
+/* ====== Begin Footer Style ======*/
+.footer {
+  background-color: #010411;
+  padding: 2rem;
+  color: white;
+}
+
+.footer-top {
+  padding-left: 1rem;
+  border-bottom: 1px solid white;
+}
+
+.footer-bottom {
+  display: flex;
+  gap: 2rem;
+}
+/*======= End Footer Style =======**/

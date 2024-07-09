@@ -1,9 +1,13 @@
 import React from 'react';
-// import ReactDOM from 'react-dom/client';
+import FooterTop from './footerTop';
+import FooterBottom from './footerBotton';
 
 const Footer = () => {
     return (
-        <div> This is the Footer</div>
+        <div className='footer'>
+            <FooterTop />
+            <FooterBottom />
+        </div>
     )
 }
 
