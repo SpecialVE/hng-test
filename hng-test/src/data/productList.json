@@ -2,7 +2,7 @@
     {
         "imgSrc":"./images/products/dell xps.png",
         "description": "Dell XPS 9510",
-        "currency":"N",
+        "currency":"U+20A6",
         "amount":"950,000",
         "rating":"4",
         "category":"laptop"
@@ -10,7 +10,7 @@
     {
         "imgSrc":"./images/products/galaxy s21.png",
         "description": "Samsung Galaxy S21",
-        "currency":"N",
+        "currency":"U+20A6",
         "amount":"1,009,000",
         "rating":"4",
         "category":"phone"
@@ -18,7 +18,7 @@
     {
         "imgSrc":"./images/products/iphone 14 pro max.png",
         "description": "Iphone 14 Pro Max",
-        "currency":"N",
+        "currency":"U+20A6",
         "amount":"1,499,000",
         "rating":"4",
         "category":"phone"
@@ -26,7 +26,7 @@
     {
         "imgSrc":"./images/products/galaxy z flip.png",
         "description": "Samsung Galaxy Z Flip",
-        "currency":"N",
+        "currency":"U+20A6",
         "amount":"1,599,000",
         "rating":"4",
         "category":"phone"
@@ -34,7 +34,7 @@
     {
         "imgSrc":"./images/products/iphone se.png",
         "description": "Iphone SE Mini",
-        "currency":"N",
+        "currency":"U+20A6",
         "amount":"120,000",
         "rating":"4",
         "category":"phone"

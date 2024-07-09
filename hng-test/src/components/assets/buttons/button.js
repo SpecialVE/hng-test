@@ -1,8 +1,9 @@
 import React from 'react';
+import BtnCartIcon from '../icons/btnCartIcon';
 
 const Button = (props) => {
     return (
-        <button>{props.text}</button>
+        <button className='btn'><span>{props.text}</span> <BtnCartIcon /></button>
     )
 }
 
